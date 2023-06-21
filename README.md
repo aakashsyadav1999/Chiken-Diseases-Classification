@@ -3,7 +3,7 @@
 
 ##Workflow
 1. Update config.yaml
-2. Update secret.yaml
+2. Update secret.yaml [Optional]
 3. Update params.yaml
 4. Update entity
 5. Update the configuration manager in src config
